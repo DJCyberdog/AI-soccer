@@ -1,0 +1,1 @@
+AI soccer (working name) will be a future engine where people can train their AI bots to play soccer on a 2D field. Core features will be easy configuration of the bots and an easy access to AI training.
