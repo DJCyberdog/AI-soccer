@@ -1,0 +1,23 @@
+field:
+  width: 800
+  height: 600
+  grid_columns: 20
+  grid_rows: 10
+
+game:
+  duration_minutes: 5
+  fps: 30
+
+teams:
+  red: "teams/team_red"
+  blue: "teams/team_blue"
+
+rewards:
+  goal: 10
+  own_goal: -5
+  successful_pass: 1
+  ball_out: -2
+  intercept: 2
+  tackle: 1
+  idle_penalty: -0.1  # optional: for doing nothing
+
